@@ -1,7 +1,7 @@
 import axios from "axios";
 
 // Base URL - change this if your backend runs on a different port or host
-const BASE_URL = "http://localhost:8080/api/students";
+const BASE_URL = "https://api.vyvsai.com/bhabhiji/api/students";
 
 // API service for student-related operations
 const studentApi = {
